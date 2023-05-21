@@ -1,0 +1,15 @@
+C:\Users\zaurr\Desktop\binarytree\bin\Debug\net7.0\binarytree.exe
+C:\Users\zaurr\Desktop\binarytree\bin\Debug\net7.0\binarytree.deps.json
+C:\Users\zaurr\Desktop\binarytree\bin\Debug\net7.0\binarytree.runtimeconfig.json
+C:\Users\zaurr\Desktop\binarytree\bin\Debug\net7.0\binarytree.dll
+C:\Users\zaurr\Desktop\binarytree\bin\Debug\net7.0\binarytree.pdb
+C:\Users\zaurr\Desktop\binarytree\obj\Debug\net7.0\binarytree.csproj.AssemblyReference.cache
+C:\Users\zaurr\Desktop\binarytree\obj\Debug\net7.0\binarytree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaurr\Desktop\binarytree\obj\Debug\net7.0\binarytree.AssemblyInfoInputs.cache
+C:\Users\zaurr\Desktop\binarytree\obj\Debug\net7.0\binarytree.AssemblyInfo.cs
+C:\Users\zaurr\Desktop\binarytree\obj\Debug\net7.0\binarytree.csproj.CoreCompileInputs.cache
+C:\Users\zaurr\Desktop\binarytree\obj\Debug\net7.0\binarytree.dll
+C:\Users\zaurr\Desktop\binarytree\obj\Debug\net7.0\refint\binarytree.dll
+C:\Users\zaurr\Desktop\binarytree\obj\Debug\net7.0\binarytree.pdb
+C:\Users\zaurr\Desktop\binarytree\obj\Debug\net7.0\binarytree.genruntimeconfig.cache
+C:\Users\zaurr\Desktop\binarytree\obj\Debug\net7.0\ref\binarytree.dll
